@@ -1,5 +1,9 @@
 # weather-app
 
+This is vue-app for begginers .weather app with vue js library
+
+
+
 ## Project setup
 ```
 npm install
