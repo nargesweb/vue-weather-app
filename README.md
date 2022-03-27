@@ -1,6 +1,6 @@
 # weather-app
 
-This is vue-app for begginers .weather app with vue js library
+This is vue-app for begginers .weather app with vue js framework .
 
 
 
